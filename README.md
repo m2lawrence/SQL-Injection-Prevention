@@ -11,5 +11,9 @@ It's where a user types in bad text into your text boxes on your website, and tr
 Never concatonate the strings in an SQL Server string, ie: select statement where textbox1.text value. 
 
 M'; Delete * from Injection --
+
+
 M'; Drop table Injection --
+
+
 M'; Drop database DataBaseOne --
